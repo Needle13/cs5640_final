@@ -1,0 +1,840 @@
+﻿City,var,Dominance,text
+Sample1,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Health,Access to hospitals is great
+Sample1,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample1,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. This comment also talks about some other topic to make it a lot longer and a lot more unncesseary."
+Sample2,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them. This is extra text that is not important to the model. 
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample2,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample1,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,"The local state parks could improve their access and trails. I really wish we could have more bike and path trails around the city, especially around the river and in the parks on the outskirts of the city. "
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Health,Access to hospitals is great
+Sample1,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample1,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample2,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample2,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. I also think that the slow traffic and lower speed limits helps make the city feel safer and more friendly to pedestrians and cyclists.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Health,Access to hospitals is great
+Sample1,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample1,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample1,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Health,Access to hospitals is great
+Sample1,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample1,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample2,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample2,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample1,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample2,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample1,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample1,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample1,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample1,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample1,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample1,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample1,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample1,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample1,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample1,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample1,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample1,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample1,AboutWellbeing_OPEN,None,Nope
+Sample1,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample1,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample1,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample1,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample1,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample1,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample1,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample1,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample1,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample1,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample1,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample1,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample1,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample1,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample1,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample1,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample1,ImproveWB_Open,Peace,It is really noisy downtown
+Sample1,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample1,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample1,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample1,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample1,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample1,ImproveWB_Open,None,Not really
+Sample1,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample1,ImproveWB_Open,Housing,Build more low income housing
+Sample1,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample1,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample1,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample1,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample1,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample1,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample1,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample1,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample1,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample1,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample1,ValueMost_OPEN,Education,The school system is great
+Sample1,ValueMost_OPEN,Health,Access to hospitals is great
+Sample1,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample1,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample1,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample1,ValueMost_OPEN,Peace,The peace and quiet.
+Sample1,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample1,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample1,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample1,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample1,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample1,ValueMost_OPEN,None,Not really sure.
+Sample1,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample1,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample1,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample1,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample1,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample1,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample1,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample1,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample1,ValueMost_OPEN,Social,The small town feel
+Sample1,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
+Sample2,AboutWellbeing_OPEN,Substance,The drugs in the area are a problem.
+Sample2,AboutWellbeing_OPEN,Agriculture,The town is a nice farming community. 
+Sample2,AboutWellbeing_OPEN,Education,The school system could use some work
+Sample2,AboutWellbeing_OPEN,Health,The distance to the nearest hospitals is concerning.
+Sample2,AboutWellbeing_OPEN,OpenSpace,The fields along the highway and around town make it look nice.
+Sample2,AboutWellbeing_OPEN,Quality,The standards of living are lower than neighboring cities.
+Sample2,AboutWellbeing_OPEN,Economy,Inflation in the city has been an issue. 
+Sample2,AboutWellbeing_OPEN,Peace,The town is quiet and peaceful. 
+Sample2,AboutWellbeing_OPEN,Retail,I wish their was more support for small businesses.
+Sample2,AboutWellbeing_OPEN,Negative,"Nothing, the town has gone downhill."
+Sample2,AboutWellbeing_OPEN,LocalOpp,There are not many opportunities for youth in town.
+Sample2,AboutWellbeing_OPEN,Other,I wish the airport was closer.
+Sample2,AboutWellbeing_OPEN,Environment,The air pollution in the valley is really bad.
+Sample2,AboutWellbeing_OPEN,None,Nope
+Sample2,AboutWellbeing_OPEN,Nature,The mountain range is really nice to have.
+Sample2,AboutWellbeing_OPEN,Housing,Stop building so many apartments.
+Sample2,AboutWellbeing_OPEN,Location,The proximity to Logan and the mountains is great.
+Sample2,AboutWellbeing_OPEN,Safety,Nice safe community.
+Sample2,AboutWellbeing_OPEN,Recreation,I wish we had more hiking trails nearby.
+Sample2,AboutWellbeing_OPEN,Government,The city council is very friendly and responds to requests. 
+Sample2,AboutWellbeing_OPEN,Character,It’s a nice quaint community
+Sample2,AboutWellbeing_OPEN,Growth,I think the population is growing too fast.
+Sample2,AboutWellbeing_OPEN,Social,"It’s a nice small town feel, neighbors are friendly"
+Sample2,AboutWellbeing_OPEN,Transportation,The traffic in the region is an issue and could be fixed
+Sample2,ImproveWB_Open,Substance,"Walking down the street, I have seen several needles from druggies and am concerned about the safety of my kids. "
+Sample2,ImproveWB_Open,Agriculture,The smell from the chicken farms is pretty bad.
+Sample2,ImproveWB_Open,Education,I wish the education system would help kids go to college.
+Sample2,ImproveWB_Open,Health,"The physical activity of residents could be improved, having more fun runs and such"
+Sample2,ImproveWB_Open,OpenSpace,"It feels cramped, I wish we had more parks and fields to play in and more spacious areas."
+Sample2,ImproveWB_Open,Quality,The quality of life could be improved.
+Sample2,ImproveWB_Open,Economy,"The prices of food and groceries is too high, I have to travel to Logan to purchase most items."
+Sample2,ImproveWB_Open,Peace,It is really noisy downtown
+Sample2,ImproveWB_Open,Retail,I wish we could bring higher end retail.
+Sample2,ImproveWB_Open,Negative,I am not sure anything could be done to improve wellbeing here.
+Sample2,ImproveWB_Open,LocalOpp,have more city events throughout the year.
+Sample2,ImproveWB_Open,Other,Immigration has been an issue that I am concerned about.
+Sample2,ImproveWB_Open,Environment,We should transition to natural sources of energy and go green
+Sample2,ImproveWB_Open,None,Not really
+Sample2,ImproveWB_Open,Nature,The local state parks could improve their access and trails
+Sample2,ImproveWB_Open,Housing,Build more low income housing
+Sample2,ImproveWB_Open,Location,"The location of the city is really far away from any large city, which makes it hard to find anything fun to do. "
+Sample2,ImproveWB_Open,Safety,The police should patrol the streets more often.
+Sample2,ImproveWB_Open,Recreation,We should lean more into the skii industry and support the local resorts more.
+Sample2,ImproveWB_Open,Government,I worry that my local council doesn't respond to my concerns and has their own agenda.
+Sample2,ImproveWB_Open,Character,The city is a weird place and has a weird vibe to it.
+Sample2,ImproveWB_Open,Growth,"The growth is way too fast, I think we need to have more planning before we approve more housing or businesses."
+Sample2,ImproveWB_Open,Social,I wish there were more events to meet people and socialize.
+Sample2,ImproveWB_Open,Transportation,"The sidewalks could use some improvement, as well as putting in crosswalks along main street. "
+Sample2,ValueMost_OPEN,Substance,The absence of drug misuse.
+Sample2,ValueMost_OPEN,Agriculture,The focus on the agriculture community
+Sample2,ValueMost_OPEN,Education,The school system is great
+Sample2,ValueMost_OPEN,Health,Access to hospitals is great
+Sample2,ValueMost_OPEN,OpenSpace,I love the open space and green fields in the city and along the highway
+Sample2,ValueMost_OPEN,Quality,The quality of life is great. Great place to raise a family.
+Sample2,ValueMost_OPEN,Economy,I feel like the city really supports small buisnesses and focuses on them.
+Sample2,ValueMost_OPEN,Peace,The peace and quiet.
+Sample2,ValueMost_OPEN,Retail,I love the downtown feel and the amount of new buisnesses in the city. 
+Sample2,ValueMost_OPEN,Negative,There is nothing great about living in the city.
+Sample2,ValueMost_OPEN,LocalOpp,I love the frequent events downtown and the city events that are always happening.
+Sample2,ValueMost_OPEN,Other,The presence of the university is great. 
+Sample2,ValueMost_OPEN,Environment,I love the focus on clean air and the initiatives to reduce idling.
+Sample2,ValueMost_OPEN,None,Not really sure.
+Sample2,ValueMost_OPEN,Nature,I love the scenery around the city and the natural beauty.
+Sample2,ValueMost_OPEN,Housing,Lots of new development downtown that is making homes more affordable.
+Sample2,ValueMost_OPEN,Location,The distance to Logan is great and makes my commute really easy.
+Sample2,ValueMost_OPEN,Safety,Really nice town that feels safe and inviting.
+Sample2,ValueMost_OPEN,Recreation,I love the trails and paths around the city that really bring people to the city to visit. 
+Sample2,ValueMost_OPEN,Government,I think the city does a great job at promoting civic duty and promoting political justice.
+Sample2,ValueMost_OPEN,Character,The character of the city is tight-knit and close.
+Sample2,ValueMost_OPEN,Growth,"The growth is just right, particulary downtown where they are putting in more businesses."
+Sample2,ValueMost_OPEN,Social,The small town feel
+Sample2,ValueMost_OPEN,Transportation,The walkability downtown and focus on cycling around the city. 
