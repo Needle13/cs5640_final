@@ -8,19 +8,18 @@ clone the repository and run the scripts in the following order:
 3) deep-models/a_sequenceModels.ipynb
 4) deep-models/b_GRUModels.ipynb
 5) deep-models/c_GRU-commentLength.ipynb
-6) deep-models/d_GRU-Finetuned.ipynb
+6) deep-models/d_GRU-Finetuned.ipynb (optionally delete the deep-models/tuning folder before running this file. Otherwise it will pull the tuning results from the real data. It will take a long time to run if you do delete it though.)
 7) deep-models/e_GRU-Evaluation.ipynb
 
 Each deep model script will need about 20-30 seconds to load the word2vec pretrained embeddings, otherwise the scripts should run pretty fast on the synthetic data set. 
 
-### Dependencies and Specifically Installed Packages
+### Dependencies and Installed Packages
 
 * cudatoolkit               11.2.2 conda-forge
 * cudnn                     8.1.0.77 conda-forge
 * gensim                    4.3.3 conda-forge
 * imbalanced-learn          0.12.4 conda-forge
 * keras                     2.10.0 pypi
-* keras-preprocessing       1.1.2 pypi
 * keras-tuner               1.4.7 pypi
 * matplotlib                3.8.4 conda-forge
 * numpy                     1.22.4 conda-forge
